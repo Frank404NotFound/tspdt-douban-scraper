@@ -1,0 +1,7 @@
+✔ Scraped 999 films across 40 pages.
+
+⚠ Pages with fewer than 25 items:
+  - Page 40: 24 items
+  - Page 41: 0 items
+
+Source: https://www.douban.com/doulist/134519598/
