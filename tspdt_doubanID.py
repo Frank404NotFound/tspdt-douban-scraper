@@ -8,7 +8,9 @@ import random
 
 def extract_and_save_ids_with_titles(doulist_url, filename="COOKIEtspdt1000doubanID.csv", summary_file="tspdt1000_summary.txt"):
     headers = {
-#TO BE REPLACED
+
+#Note: Replace with your actual User-Agent string
+        #If you don't log in, some items may not be visible
     }
 
 
